@@ -2,7 +2,7 @@
 
 **LLB Graduate | AML/KYC | Due Diligence | OSINT | Regulatory Compliance**
 
-I am a South African LLB graduate building practical experience in anti-money laundering, customer due diligence, regulatory research, financial crime analysis, legal research, and compliance documentation.
+I am a South African LLB graduate developing practical AML/KYC, customer due diligence, OSINT, legal research, and compliance work samples.
 
 My portfolio focuses on turning legal and compliance knowledge into clear, practical work products such as customer risk assessments, due diligence reports, transaction analysis, regulatory summaries, and compliance policies.
 
