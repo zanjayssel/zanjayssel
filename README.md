@@ -19,16 +19,16 @@ My portfolio focuses on turning legal and compliance knowledge into clear, pract
 
 ## Current Portfolio Projects
 
-- **Customer Due Diligence and Risk Assessment**  
+- **[Customer Due Diligence and Risk Assessment](https://github.com/zanjayssel/aml-compliance-portfolio/tree/main/Due-Diligence-Reports/Project-01-Customer-Due-Diligence)**  
   A fictional onboarding case involving customer identification, beneficial ownership, risk scoring, sanctions and PEP considerations, adverse media research, and an onboarding recommendation.
 
-- **Transaction Monitoring Case Analysis**  
+- **Transaction Monitoring Case Analysis - In Development**
   A practical review of fictional transaction data to identify unusual activity, document red flags, and prepare an internal escalation recommendation.
 
-- **Compliance Policy Drafting**  
+- **Compliance Policy Drafting - Planned**
   A practical customer due diligence and enhanced due diligence policy for a fictional regulated business.
 
-- **OSINT and Adverse Media Investigation**  
+- **OSINT and Adverse Media Investigation - Planned**
   A structured open-source investigation demonstrating research planning, source evaluation, entity matching, and risk reporting.
 
 ## Qualifications and Training
