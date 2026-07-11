@@ -23,7 +23,7 @@ My portfolio focuses on turning legal and compliance knowledge into clear, pract
   A fictional onboarding case involving customer identification, beneficial ownership, risk scoring, sanctions and PEP considerations, adverse media research, and an onboarding recommendation.
 
 - **[Transaction Monitoring and Suspicious Activity Analysis](https://github.com/zanjayssel/aml-compliance-portfolio/tree/main/Suspicious-Transaction-Reviews/Project-02-Transaction-Monitoring)**
- A fictional transaction-monitoring case involving the review of 20 account transactions, expected-versus-actual activity analysis, third-party payments, rapid movement of funds, possible pass-through activity, unexpected jurisdictions, red-flag assessment, and internal escalation.
+  A fictional transaction-monitoring case involving the review of 20 account transactions, expected-versus-actual activity analysis, third-party payments, rapid movement of funds, possible pass-through activity, unexpected jurisdictions, red-flag assessment, and internal escalation.
 
 - **Compliance Policy Drafting - Planned**
   A practical customer due diligence and enhanced due diligence policy for a fictional regulated business.
