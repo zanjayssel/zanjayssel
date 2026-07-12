@@ -2,7 +2,7 @@
 
 **LLB Graduate | AML/KYC | Due Diligence | OSINT | Regulatory Compliance**
 
-I am a South African LLB graduate developing practical AML/KYC, customer due diligence, OSINT, legal research, and compliance work samples.
+I am a South African LLB (Bachelor of Laws) graduate developing practical AML/KYC, customer due diligence, OSINT, legal research, and compliance work samples.
 
 My portfolio focuses on turning legal and compliance knowledge into clear, practical work products such as customer risk assessments, due diligence reports, transaction analysis, regulatory summaries, and compliance policies.
 
@@ -25,8 +25,8 @@ My portfolio focuses on turning legal and compliance knowledge into clear, pract
 - **[Transaction Monitoring and Suspicious Activity Analysis](https://github.com/zanjayssel/aml-compliance-portfolio/tree/main/02-Transaction-Monitoring-and-Case-Review/Project-02-Transaction-Monitoring)**  
   A fictional transaction-monitoring case involving the review of 20 account transactions, expected-versus-actual activity analysis, third-party payments, rapid movement of funds, possible pass-through activity, unexpected jurisdictions, red-flag assessment, and internal escalation.
 
-- **Compliance Policy Drafting - Planned**
-  A practical customer due diligence and enhanced due diligence policy for a fictional regulated business.
+- **[Fintech AML Policy Review and Gap Analysis](https://github.com/zanjayssel/aml-compliance-portfolio/tree/main/03-AML-Policies-and-Program-Reviews/Project-03-Fintech-AML-Policy-Gap-Analysis)**  
+  A fictional U.S. fintech compliance review covering AML governance, CDD and EDD, beneficial ownership, sanctions and PEP screening, transaction monitoring, suspicious-activity escalation, recordkeeping, training, vendor oversight, and independent testing.
 
 - **OSINT and Adverse Media Investigation - Planned**
   A structured open-source investigation demonstrating research planning, source evaluation, entity matching, and risk reporting.
